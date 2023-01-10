@@ -9,6 +9,8 @@ A python program that detects if there are any dates of the format 'DD/MM/YYYY' 
 Install python:
   ``` bash
   sudo apt-get install python3 -y
+  pip install beautfulsoup4
+  pip install requests
   ```
 Install git:
   ``` bash
