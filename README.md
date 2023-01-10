@@ -22,7 +22,8 @@ cd into DateDetection:
   ``` bash
   cd DateDetection
   ```
-create a file with .txt extension with dates in it & run the python file :
+create a file with .txt extension with dates in it 
+or use the default dates.txt file & run the python file :
   ``` bash
   python3 DateDetection.py
   ```
