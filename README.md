@@ -6,7 +6,7 @@ A python program that detects if there are any dates of the format 'DD/MM/YYYY' 
 </p>
 
 ## Installation Instructions (On Ubuntu/Debian): 
-Install python:
+Install python and requirements:
   ``` bash
   sudo apt-get install python3 -y
   pip install beautfulsoup4
