@@ -2,7 +2,7 @@
 A python program that detects if there are any dates of the format 'DD/MM/YYYY' in a text file.
 
 <p align="center">
-  <img width="522" src="https://github.com/Cr4zySh4rk/INRCurrencyConverter/blob/main/Screenshot1.png">
+  <img width="522" src="https://github.com/Cr4zySh4rk/DateDetection/blob/main/Screenshot1.png">
 </p>
 
 ## Installation Instructions (On Ubuntu/Debian): 
