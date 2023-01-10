@@ -27,7 +27,7 @@ cd into DateDetection:
 create a file with .txt extension with dates in it 
 or use the default dates.txt file & run the python file :
   ``` bash
-  python3 DateDetection.py
+  python3 datedetection.py
   ```
 ### That's it, enjoy!
 credits: https://github.com/ngchrbn/Dates-Detection
